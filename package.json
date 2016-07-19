@@ -5,16 +5,16 @@
   "main": "src/http-auth-interceptor.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/witoldsz/angular-http-auth.git"
+    "url": "https://github.com/lucduong/angular-http-auth.git"
   },
   "author": "Witold Szczerba",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/witoldsz/angular-http-auth/issues"
+    "url": "https://github.com/lucduong/angular-http-auth/issues"
   },
   "keywords": [
     "angular",
     "auth"
   ],
-  "homepage": "https://github.com/witoldsz/angular-http-auth"
+  "homepage": "https://github.com/lucduong/angular-http-auth"
 }

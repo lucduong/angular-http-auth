@@ -1,10 +1,10 @@
 {
-  "author": "Witold Szczerba",
+  "author": "Luc Duong",
   "name": "angular-http-auth",
-  "homepage": "https://github.com/witoldsz/angular-http-auth",
+  "homepage": "https://github.com/lucduong/angular-http-auth",
   "repository": {
     "type": "git",
-    "url": "git://github.com/witoldsz/angular-http-auth.git"
+    "url": "git@github.com:lucduong/angular-http-auth.git"
   },
   "main": "./src/http-auth-interceptor.js",
   "dependencies": {
